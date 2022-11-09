@@ -1,7 +1,13 @@
-<script></script>
+<script>
+export default {
+
+}
+</script>
 
 <template>
-  <h2>La mia prima app con Vite!</h2>
+  <h1></h1>
+
+
 </template>
 
 <style>
